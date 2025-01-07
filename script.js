@@ -1,2 +1,3 @@
-TextDecoderStream
-TextDecoderStream
+function {
+    TextDecoderStream;
+}
